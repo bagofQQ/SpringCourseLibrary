@@ -1,0 +1,199 @@
+* {
+    font-family: Arial;
+}
+
+#course-form {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: #88888878;
+}
+
+#course-form form {
+    background-color: white;
+    border: 1px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#course-form h2 {
+    margin-top: 0;
+}
+
+#course-form label {
+    display: block;
+}
+
+#course-form form > * {
+    margin-bottom: 5px;
+}
+
+#course-list {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: #88888878;
+}
+
+#course-list form {
+    background-color: white;
+    border: 1px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#course-list h2 {
+    margin-top: 0;
+}
+
+#course-list label {
+    display: block;
+}
+
+#course-list form > * {
+    margin-bottom: 5px;
+}
+
+#course-id {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: #88888878;
+}
+
+#course-id form {
+    background-color: white;
+    border: 1px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#course-id h2 {
+    margin-top: 0;
+}
+
+#course-id label {
+    display: block;
+}
+
+#course-id form > * {
+    margin-bottom: 5px;
+}
+
+#put-course-form {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: #88888878;
+}
+
+#put-course-form form {
+    background-color: white;
+    border: 1px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#put-course-form h2 {
+    margin-top: 0;
+}
+
+#put-course-form label {
+    display: block;
+}
+
+#put-course-form form > * {
+    margin-bottom: 5px;
+}
+
+#delete-course-form {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: #88888878;
+}
+
+#delete-course-form form {
+    background-color: white;
+    border: 1px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#delete-course-form h2 {
+    margin-top: 0;
+}
+
+#delete-course-form label {
+    display: block;
+}
+
+#delete-course-form form > * {
+    margin-bottom: 5px;
+}
+
+#delete-courses {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: #88888878;
+}
+
+#delete-courses form {
+    background-color: white;
+    border: 1px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#delete-courses h2 {
+    margin-top: 0;
+}
+
+#delete-courses label {
+    display: block;
+}
+
+#delete-courses form > * {
+    margin-bottom: 5px;
+}
+
+h4 {
+    margin-bottom: 0;
+}
